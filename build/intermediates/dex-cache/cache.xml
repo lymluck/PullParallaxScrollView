@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_e75f2c1f4f8510131afacb0e03affe6494da383b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_03c86dbb66c54f138a9176ae63382cb665d7e9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_efa3104b8d8c3f344eb803a88547c8a761025d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_efcd9c14c794a3803e08810a6305b6119ac2f67e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_e95296252b2259a16e5a5dab486898b64b066c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_4f015885e081b2892b9750bdb90aa779a76e5292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_b0cd3f41460fca3b1352621a1ed33693805bc247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_93c9e5e74dbdcc888eb5c3be253732f23dbe34c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_31bac3df70e1aeca6cc8391eaf0e89d6cc663df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_840c00ac8fb408eee0c9fbd495ec6e279807ed02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_337c50fb525b69016c3afc758df1107013b96c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/louis/Desktop/PullParallaxScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_5d47eda34ade6e6ea440bc7e401c1f1d59b73a5d.jar" />
+    </item>
+
+</items>

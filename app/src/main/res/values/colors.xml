@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_bg">#f5f5f5</color> <!-- 主页背景色 -->
+    <color name="white">#ffffffff</color><!--100%的白色 -->
+    <color name="horizontal_line_color">#f5f5f5</color> <!-- 分割线颜色 -->
+</resources>
