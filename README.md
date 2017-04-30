@@ -1,0 +1,2 @@
+# PullParallaxScrollView
+实现QQ空间主页和新浪微博用户主页头部背景视差滚动效果
